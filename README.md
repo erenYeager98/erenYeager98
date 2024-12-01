@@ -1,6 +1,6 @@
 # 💻 About Me  
 
-Hi there! 👋 I'm [Your Name], a tech enthusiast and developer with a passion for solving real-world problems through innovative technology solutions. I believe in continuous learning and actively work on projects that challenge and grow my skill set. Welcome to my GitHub space!
+Hi there! 👋 I'm Dinesh Kumar, a tech enthusiast and developer with a passion for ... nah I love computers, I play with them. Welcome to my GitHub space!
 
 ---
 
@@ -11,19 +11,24 @@ Here are some of the tools, technologies, and frameworks I frequently use:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/API-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="API">
+  <img src="https://img.shields.io/badge/IoT-FF5722?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="IoT">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Networking-1572B6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
 </p>
+
 
 ---
 
 ## 📚 Programming Languages  
-Below are the programming languages I know, along with their logos for a visual overview:  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -40,19 +45,11 @@ Below are the programming languages I know, along with their logos for a visual 
 ## 🛠️ Projects  
 Here are some of my noteworthy projects:  
 
-- **[ForenSense](https://github.com/your-github-username/ForenSense):** Applied forensic data analysis techniques to identify and interpret digital evidence, providing insights into cybersecurity incidents.  
-- **[Wii Secure](https://github.com/your-github-username/WiiSecure):** A security-focused application that enhances digital safety using advanced techniques.  
-- **[Health Monitor App](https://github.com/your-github-username/HealthMonitorApp):** Designed for Wear OS, this app monitors and provides real-time health metrics for users.  
+- **[ForenSense](https://github.com/SanjayRagavendar/ForenSense-v1):** Applied forensic data analysis techniques to identify and interpret digital evidence, providing insights into cybersecurity incidents.  
+- **[Wii Secure](https://github.com/sanjayragavendar/wii-secure):** A security-focused application that enhances digital safety using advanced techniques.  
+- **[An Automation Application](https://github.com/erenYeager98/pi_project_2):** Designed for Raspberry pi, An application used for identifying shifts in images, An automation application.  
 
 ---
-
-## 🌟 Achievements  
-- **IBM Z Datathon Participant:** Gained hands-on experience with cutting-edge technologies.  
-- **Photography Award Winner:** Won a competition with the theme "Scientific Phenomenon" at Loyola Campus.  
-- **Tech Society Joint Secretary:** Fostered innovation and collaboration in my college's tech community.  
-
----
-
 ## ✨ How I Work  
 - **Collaborative:** Excels in team settings to bring innovative ideas to life.  
 - **Problem-Solver:** Always ready to tackle complex challenges head-on.  
