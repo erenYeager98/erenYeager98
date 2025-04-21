@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=aldrinlijo04&label=Profile%20views&color=0e75b6&style=flat" alt="aldrinlijo04" /> </p>
 # 💻 About Me  
 
 Hi there! 👋 I'm Dinesh Kumar, a tech enthusiast and developer with a passion for ... nah I love computers, I play with them. Welcome to my GitHub space!
